@@ -18,7 +18,7 @@ const projects = [
     description:
       "A responsive task manager that allows users to add, edit, and delete tasks with login functionality using JWT and MERN stack.",
     tech: ["React", "Tailwind", "MongoDB", "Node.js"],
-    demo: "https://resilient-dusk-feca6c.netlify.app/signup",
+    demo: "https://noteleaf.netlify.app/",
     code: "https://github.com/ajay7398/NoteBook",
   },
   {
