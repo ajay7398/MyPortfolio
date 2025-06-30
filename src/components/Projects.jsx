@@ -9,7 +9,7 @@ const projects = [
     description:
       "A full-stack news app with JWT authentication, encrypted passwords, categorized articles, search functionality, and server-side pagination.",
     tech: ["React", "Node.js", "MongoDB", "Express", "Redux", "Tailwind"],
-    demo: "https://radiant-unicorn-d21754.netlify.app/news",
+    demo: "https://dailysphere.netlify.app/",
     code: "https://github.com/ajay7398/mern-news-app",
   },
   {
