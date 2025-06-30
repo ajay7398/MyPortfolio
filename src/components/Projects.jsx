@@ -1,6 +1,7 @@
 import React from "react";
 import notebook from '../assets/notebook.png'
 import news from '../assets/news.png'
+import calc from '../assets/calc.png'
 const projects = [
   {
     title: "MERN News App",
@@ -8,8 +9,8 @@ const projects = [
     description:
       "A full-stack news app with JWT authentication, encrypted passwords, categorized articles, search functionality, and server-side pagination.",
     tech: ["React", "Node.js", "MongoDB", "Express", "Redux", "Tailwind"],
-    demo: "https://your-newsapp-demo.netlify.app",
-    code: "https://github.com/yourusername/news-app",
+    demo: "https://radiant-unicorn-d21754.netlify.app/news",
+    code: "https://github.com/ajay7398/mern-news-app",
   },
   {
     title: "Task Manager",
@@ -17,8 +18,17 @@ const projects = [
     description:
       "A responsive task manager that allows users to add, edit, and delete tasks with login functionality using JWT and MERN stack.",
     tech: ["React", "Tailwind", "MongoDB", "Node.js"],
-    demo: "https://task-manager-demo.netlify.app",
-    code: "https://github.com/yourusername/task-manager",
+    demo: "https://resilient-dusk-feca6c.netlify.app/signup",
+    code: "https://github.com/ajay7398/NoteBook",
+  },
+  {
+    title: "Calculator",
+    image: calc,
+    description:
+      "A responsive Calculator that allows users to perform normal calculation.",
+    tech: ["Html", "css", "Javascript"],
+    demo: "https://ajay-calc.netlify.app/",
+    code: "https://github.com/ajay7398/Calculater",
   },
   // Add more projects here...
 ];
