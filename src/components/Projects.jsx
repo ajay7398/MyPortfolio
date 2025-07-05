@@ -2,6 +2,7 @@ import React from "react";
 import notebook from '../assets/notebook.png'
 import news from '../assets/news.png'
 import calc from '../assets/calc.png'
+import quote from '../assets/quate.png'
 const projects = [
   {
     title: "MERN News App",
@@ -30,6 +31,15 @@ const projects = [
     demo: "https://ajay-calc.netlify.app/",
     code: "https://github.com/ajay7398/Calculater",
   },
+  {
+    title: "Random Quate Generator",
+    image: quote,
+    description:
+      "A responsive Random Quate Generator that generate new quote when we click on new quate.",
+    tech: ["React", "Tailwind"],
+    demo: "https://randomquoteshow.netlify.app/",
+    code: "https://github.com/ajay7398/Random-Quate-Generator",
+  }
   // Add more projects here...
 ];
 
