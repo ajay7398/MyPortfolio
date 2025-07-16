@@ -3,6 +3,7 @@ import notebook from '../assets/notebook.png'
 import news from '../assets/news.png'
 import calc from '../assets/calc.png'
 import quote from '../assets/quate.png'
+import dashboard from '../assets/dashboard.png'
 const projects = [
   {
     title: "MERN News App",
@@ -39,6 +40,15 @@ const projects = [
     tech: ["React", "Tailwind"],
     demo: "https://randomquoteshow.netlify.app/",
     code: "https://github.com/ajay7398/Random-Quate-Generator",
+  },
+   {
+    title: " VisionBoard - Admin Dashboard",
+    image: dashboard,
+    description:
+      "Built a responsive admin dashboard UI to monitor bookings, users, revenue, and project status. Included interactive charts, data cards, and performance tracking.",
+    tech: ["React", "Tailwind","Recharts"],
+    demo: "https://visionboard-admin-dashboard.netlify.app",
+    code: "https://github.com/ajay7398/VisionBoard-Admin-Dashboard"
   }
   // Add more projects here...
 ];
