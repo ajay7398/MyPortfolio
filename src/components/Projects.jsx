@@ -4,6 +4,7 @@ import news from '../assets/news.png'
 import calc from '../assets/calc.png'
 import quote from '../assets/quate.png'
 import dashboard from '../assets/dashboard.png'
+import leaderboard from '../assets/leaderboard.png'
 const projects = [
   {
     title: "MERN News App",
@@ -49,6 +50,15 @@ const projects = [
     tech: ["React", "Tailwind","Recharts"],
     demo: "https://visionboard-admin-dashboard.netlify.app",
     code: "https://github.com/ajay7398/VisionBoard-Admin-Dashboard"
+  },
+  {
+    title: "Leaderboard Sytsem",
+    image: leaderboard,
+    description:
+      "This is a full-stack Leaderboard Web App where users can be added, claim random points (1-10), and rankings update in real-time. It also tracks each user's claim history, paginates the leaderboard, and uses Redux for global state.",
+    tech: ["React", "Tailwind","Recharts","Redux Toolkit (State Management)","Node.js","Express.js",],
+    demo: "https://ajay-leaderboard.netlify.app",
+    code: "https://github.com/ajay7398"
   }
   // Add more projects here...
 ];
