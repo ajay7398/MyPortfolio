@@ -45,11 +45,11 @@ const Contact = () => {
             </p>
             <p className="flex items-center gap-3 text-lg">
               <FaPhone className="text-blue-600" />
-              +977-9812803957
+              +91-7398420730
             </p>
             <p className="flex items-center gap-3 text-lg">
               <FaMapMarkerAlt className="text-blue-600" />
-              Lumbini, Nepal
+              Uttar Pradesh, India
             </p>
 
             {/* Social Links */}
@@ -57,7 +57,7 @@ const Contact = () => {
               <a href="https://github.com/ajay7398" target="_blank" rel="noreferrer">
                 <FaGithub className="text-2xl hover:text-gray-700 transition" />
               </a>
-              <a href="https://www.linkedin.com/in/ajay-kumar-harijan-a64716242/" target="_blank" rel="noreferrer">
+              <a href="https://www.linkedin.com/in/ajay-kumar-a64716242/" target="_blank" rel="noreferrer">
                 <FaLinkedin className="text-2xl text-blue-700 hover:text-blue-800 transition" />
               </a>
             </div>

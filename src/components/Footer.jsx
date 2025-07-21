@@ -32,7 +32,7 @@ const Footer = () => {
         {/* Right - Social Icons */}
         <div className="flex gap-4 text-xl">
           <a
-            href="https://github.com/yourgithub"
+            href="https://github.com/ajay7398"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-blue-400 transition"
@@ -40,7 +40,7 @@ const Footer = () => {
             <FaGithub />
           </a>
           <a
-            href="https://linkedin.com/in/yourlinkedin"
+            href="https://www.linkedin.com/in/ajay-kumar-a64716242/"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-blue-400 transition"
