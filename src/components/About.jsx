@@ -1,5 +1,5 @@
 import React from "react";
-import profile from '../assets/ajay.pic.jpg'
+import profile from '../assets/ajay dev.PNG'
 const About = () => {
   return (
     <section
