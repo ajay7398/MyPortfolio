@@ -6,7 +6,7 @@ const HeroSection = () => {
     <section id="home" className="relative min-h-screen flex flex-col justify-center items-center px-4 text-center overflow-hidden">
 
       <h1 className="text-2xl  md:text-5xl font-bold mb-4 z-10">
-        Hi, I'm <span className="text-blue-600">Ajay Kumar Harijan</span>
+        Hi, I'm <span className="text-blue-600">Ajay Kumar</span>
       </h1>
 
       <h2 className="text-xl md:text-2xl font-semibold text-gray-700 mb-3 z-10">
