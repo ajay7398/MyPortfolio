@@ -12,7 +12,7 @@ const About = () => {
         <div className="flex justify-center">
           <img
             src={profile} // Replace with your image or animated SVG
-            alt="Ajay Kumar Harijan"
+            alt="Ajay Kumar "
             className="w-64 h-64 object-cover rounded-full shadow-xl"
           />
         </div>
@@ -23,7 +23,7 @@ const About = () => {
             About Me
           </h2>
           <p className="text-gray-600 text-lg mb-4">
-            I’m <span className="font-semibold text-blue-600">Ajay Kumar Harijan</span>, a dedicated full stack developer with a strong passion for building responsive, user-friendly web applications using the MERN stack.
+            I’m <span className="font-semibold text-blue-600">Ajay Kumar</span>, a dedicated full stack developer with a strong passion for building responsive, user-friendly web applications using the MERN stack.
           </p>
           <p className="text-gray-600 text-lg mb-4">
             I enjoy solving real-world problems with clean and efficient code. My portfolio includes projects like a News App with authentication, server-side pagination, and search features. I'm always looking to grow and learn new tools and technologies.
